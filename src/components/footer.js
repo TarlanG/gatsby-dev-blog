@@ -5,7 +5,7 @@ import { black } from '../utils';
 
 const Footer = () => (
   <FooterStyles>
-    <small>@wilhelmsentence</small>
+    <small>@tarlangardashov</small>
   </FooterStyles>
 );
 
